@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/octree-gva/.github/README/img/octree.jpg" borderRadius="50%" height="110" alt="Octree launch software for sustainable societies" />
+  <img src="https://raw.githubusercontent.com/octree-gva/.github/README/img/octree.png" alt="Octree launch software for sustainable societies" />
 </h1><br /><br />
 
 <h2 >
@@ -46,7 +46,7 @@ Smart cities must articulate effective change in the areas of **consumption**, *
 
 # Web Applications
 
-<br /><img src="https://raw.githubusercontent.com/octree-gva/.github/README/img/lean.jpg"  alt="Quickly test your web application, avoid developing features that will never be used" /><br />
+<br /><img src="https://raw.githubusercontent.com/octree-gva/.github/README/img/lean.png"  alt="Quickly test your web application, avoid developing features that will never be used" /><br />
 
 Our approach fuses Lean & Agile methods
 We move forward the development of your web application, taking into account all your hypotheses. We help you to define a <a href="https://octree.ch/en/go-to-market-fast/">Minimum Viable Product (MVP)</a> before starting the development. 
