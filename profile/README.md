@@ -38,7 +38,7 @@ Smart cities must articulate effective change in the areas of **consumption**, *
 
 <h4>
     <a href="https://octree.ch/en/smart-city/">→ Read more about how do we go towards smarter & sustainable cities </a><br /><br />
-    <p>our projects</p>
+    our projects<br />
     <a href="https://caroster.io">→ Caroster: a doodle for carpooling! The app helps reduce the carbon footprint of events ❤️</a><br />
     <a href="https://r-21.ch">→ R—21 Suite: a statistical waste monitoring tool for municipalities. Developed colaborating with Co-Objectifs21</a><br />
     <a href="https://www.evospe.ch">→ EVOSPE: a complete energy monitoring solution for buildings. Developed for Service Plus Energies</a><br />
