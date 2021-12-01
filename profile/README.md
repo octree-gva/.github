@@ -1,19 +1,16 @@
-<h1 align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/octree-gva/.github/README/img/octree.png" alt="Octree launch software for sustainable societies" />
-</h1><br /><br />
+</p><br />
 
 <h2 >
 Octree launch software for sustainable societies. Based in Geneva, we ideate, build and maintain softwares with purpose.
 </h2>
 <h4>
-<strong>
-    We do
-</strong>
 <a href="https://octree.ch/en/decidim-civic-tech/">Decidim & civic techs</a> |
 <a href="https://octree.ch/en/smart-city/">Smart(er) city</a> |
 <a href="https://octree.ch/en/developpement-application-web/">Web Applications</a> |
 <a href="https://octree.ch/en/mobile-applications/">Mobile Applications</a><br /><br />
-</h4><br /><br /><br /><br />
+</h4><br /><br />
 
 
 # Decidim & civic techs
@@ -40,13 +37,16 @@ Smart cities must articulate effective change in the areas of **consumption**, *
 
 
 <h4>
-    <a href="https://octree.ch/en/smart-city/">→ Read more about how do we go towards smarter & sustainable cities </a>
+    <a href="https://octree.ch/en/smart-city/">→ Read more about how do we go towards smarter & sustainable cities </a><br />
+    <a href="https://caroster.io">→ Have a look at Caroster: a doodle for carpooling! The app helps reduce the carbon footprint of events ❤️</a><br />
+    <a href="https://r-21.ch">→ Have a look at R—21 Suite: a statistical waste monitoring tool for municipalities. Developed colaborating with Co-Objectifs21</a><br />
+    <a href="https://www.evospe.ch">→ Have a look at EVOSPE: a complete energy monitoring solution for buildings. Developed for Service Plus Energies</a><br />
 </h4><br /><br /><br /><br />
 
 
-# Web Applications
+# Applications
 
-<br /><img src="https://raw.githubusercontent.com/octree-gva/.github/README/img/lean.png"  alt="Quickly test your web application, avoid developing features that will never be used" /><br />
+<br /><img src="https://raw.githubusercontent.com/octree-gva/.github/README/img/lean.png"  alt="Quickly test your application, avoid developing features that will never be used" /><br />
 
 Our approach fuses Lean & Agile methods
 We move forward the development of your web application, taking into account all your hypotheses. We help you to define a <a href="https://octree.ch/en/go-to-market-fast/">Minimum Viable Product (MVP)</a> before starting the development. 
@@ -55,8 +55,7 @@ This method avoids developing features that will never be used and enables you t
 
 We know how to deal with the unexpected, thanks to our Agile development methods. You regularly receive deliverables and you can redefine your development priorities at any time while staying in control of your budget.
 
-
-
 <h4>
-    <a href="https://octree.ch/en/developpement-application-web/">→ Read more about how do we build Web Applications</a>
+    <a href="https://octree.ch/en/developpement-application-web/">→ Read more about how do we build <strong>web applications</strong></a><br />
+    <a href="https://octree.ch/en/mobile-applications/">→ Read more about how do we build <strong>mobile applications</strong></a><br />
 </h4><br /><br /><br /><br />
