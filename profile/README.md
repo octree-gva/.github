@@ -3,7 +3,7 @@
 </p><br />
 
 <h2 >
-Octree launch software for sustainable societies. Based in Geneva, we ideate, build and maintain softwares with purpose.
+Octree launches software for sustainable societies. Based in Geneva, we ideate, build and maintain softwares with purpose.
 </h2>
 <h4>
 <a href="https://octree.ch/en/decidim-civic-tech/">Decidim & civic techs</a> |
