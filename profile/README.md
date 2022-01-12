@@ -15,7 +15,7 @@ Octree launches software for sustainable societies. Based in Geneva, we ideate, 
 
 # Decidim & civic techs
 
-<br /><img src="https://github.com/octree-gva/meta/blob/main/decidim/static/participerge/mobile_participer_ge.svg?raw=true" /><br />
+<br /><img src="https://github.com/octree-gva/meta/blob/main/decidim/static/participerge/mobile_participer_ge.png?raw=true" /><br />
 
 Decidim is an open-source platform that can easily be tailored to suit the needs of your project: whether it’s about public concertations, digital democracy, or distributed governance, it’s a plug & play solution. Among other benefits, Decidim enables to strengthen your citizen’s trust in participatory processes by grounding itself in a core of transparent and open-source values, enabling a boost in engagement.
 
